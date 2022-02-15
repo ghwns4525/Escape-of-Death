@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Decrepit Dungeon LITE/Scene/Start.unity
     guid: 79492435f7ae98e4c85aaad48bc5a85f
   - enabled: 1
+    path: Assets/Decrepit Dungeon LITE/Scene/Main_UI.unity
+    guid: 18af437331f052449a009310421c1436
+  - enabled: 1
     path: Assets/Decrepit Dungeon LITE/Scene/Stage01_Prison.unity
     guid: f9c9e2d043ba1354fb29c9cde6c6ac61
   - enabled: 1
@@ -29,9 +32,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Decrepit Dungeon LITE/Scene/DeathScene.unity
     guid: cb7c912d44a22b041ba8225832471259
-  - enabled: 1
-    path: Assets/Decrepit Dungeon LITE/Scene/Main_UI.unity
-    guid: 18af437331f052449a009310421c1436
   - enabled: 1
     path: Assets/Decrepit Dungeon LITE/Scene/Setting_UI.unity
     guid: 485df77907a6f1b41a1688fa8312ce16
