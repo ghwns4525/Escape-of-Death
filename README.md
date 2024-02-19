@@ -3,7 +3,6 @@
 - **`프로젝트 명` :** Escape of Death
 - **`프로젝트 기간` :** 2021.05 - 2021.06
 - **`한줄 소개` :** 1인칭 공포 탈출게임
-- **`팀 깃허브 링크` :** <a href="https://github.com/ZDA-Tentative/ZDA_NewProject" target="_blank">📖 GitHub</a>
 
 <br />
 
